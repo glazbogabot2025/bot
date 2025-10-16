@@ -1,4 +1,5 @@
 User-agent: *
 User-agent: Yandex
-Sitemap: https://glazbogah.github.io/telegramm/sitemap.xml
-Host: https://glazbogah.github.io/telegramm/
+Sitemap: https://glazbogabot2025.github.io/bot/sitemap.xml
+
+Host: https://glazbogabot2025.github.io/bot/
